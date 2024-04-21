@@ -7,5 +7,5 @@
   <li>I have successfully developed the event update web page</li>
   <li>By using HTML, CSS, Bootstrap</li>
   <li>And I have deployed it by using Netlify</li>
-  <li>Deployment Link</li>
+  <li><h3>Deployment Link</h3></li>
 </ul>
